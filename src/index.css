@@ -1,0 +1,9 @@
+body {
+  background-color: #e2d8d388 !important ;
+}
+
+.emp-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
